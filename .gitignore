@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+build/
+
+# Operating System
+.DS_Store
+Thumbs.db
+.directory
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+backend/node_modules/
+frontend/node_modules/
+oldfrontend/
+project_analysis_report.md
+.gitattributes
