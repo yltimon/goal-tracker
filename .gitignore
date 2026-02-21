@@ -27,3 +27,4 @@ frontend/node_modules/
 oldfrontend/
 project_analysis_report.md
 .gitattributes
+.gitignore
